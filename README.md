@@ -13,9 +13,13 @@ Methodology
 The project follows a structured approach:
 
 Data Preprocessing: Standardization and cleaning to prepare data for modeling.
+
 Model Training and Hyperparameter Tuning: Systematic tuning of parameters for each model to find the optimal settings.
+
 Validation and Testing: Employing cross-validation techniques to ensure the models' robustness and generalizability.
+
 Feature Importance and SHAP Analysis: Investigating which features most significantly impact the mechanical properties of BFRC.
+
 Genetic Algorithm: Integrating genetic algorithms to discover optimal concrete mix designs that conform to desired strength parameters.
 
 Results
